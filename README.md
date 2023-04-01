@@ -209,17 +209,6 @@ Ingredients:
 - 1 tsp vanilla extract
 - 2 cups chocolate chips
 
-Directions:
-1. Preheat oven to 375°F (190°C).
-2. Combine flour, baking powder, and salt in a bowl. Mix well.
-3. In another bowl, cream together butter and sugar until light and fluffy.
-4. Beat in egg and vanilla extract.
-5. Gradually mix in dry ingredients.
-6. Fold in chocolate chips.
-7. Drop dough by spoonfuls onto ungreased baking sheet.
-8. Bake for 12-15 minutes or until golden brown.
-9. Remove from oven and let cool before serving.
-
 Obfuscated Recipe:
 - Preheat golden 1 tsp
 - Mix all-purpose butter and vanilla extract until fluffy
@@ -234,7 +223,10 @@ Obfuscated Recipe:
 
 Can you guess what dish this is?
 ```
-Did you guess it right? The answer is revealed at the end!
+Did you guess it right?
+
+The answer is revealed at the end!
+
 Now let's get into some practical examples,
 
 MASM (Microsoft Assembly) code that uses obfuscation techniques to confuse system execution:
@@ -358,6 +350,17 @@ It's important to remember that cybersecurity should never be taken lightly, and
 Overall, this repository is a valuable resource for anyone interested in cybersecurity, from students to professionals, and it provides practical tips and tools for protecting digital assets and ensuring the security of networks.
 
 ### ANSWERS
-It was cookies! The instructions were how to bake cookies, but using low-level executional obfuscation to make it difficult to understand.
-
+The instructions were how to bake cookies, but using low-level executional obfuscation to make it difficult to understand.
+```
+Directions:
+1. Preheat oven to 375°F (190°C).
+2. Combine flour, baking powder, and salt in a bowl. Mix well.
+3. In another bowl, cream together butter and sugar until light and fluffy.
+4. Beat in egg and vanilla extract.
+5. Gradually mix in dry ingredients.
+6. Fold in chocolate chips.
+7. Drop dough by spoonfuls onto ungreased baking sheet.
+8. Bake for 12-15 minutes or until golden brown.
+9. Remove from oven and let cool before serving.
+```
 ## License Apache 2.0 License
