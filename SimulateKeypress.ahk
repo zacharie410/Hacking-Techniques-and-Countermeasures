@@ -1,0 +1,1 @@
+Send {LEFT}{LEFT}{ENTER}{ENTER}
