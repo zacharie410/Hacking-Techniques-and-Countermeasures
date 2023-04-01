@@ -8,6 +8,7 @@ I do not recommend downloading these files either unless you have a good underst
 Some files and executables have been removed for legal reasons.
 
 I will **not** cover topics such as manifest editing AKA registry hacking because this could be used to severely disrupt a system
+
 I will **not** discuss the many ways to automatically execute files from a usb drive
 
 ### TABLE OF CONTENTS
